@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3697-13D7
+
+ Directory of C:\Users\DELL\Desktop\test
+
+26-06-2021  21:19    <DIR>          .
+26-06-2021  21:19    <DIR>          ..
+26-06-2021  21:19                 0 testfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  203,081,523,200 bytes free
